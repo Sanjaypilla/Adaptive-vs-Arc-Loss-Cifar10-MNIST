@@ -101,11 +101,12 @@ Each model uses convolutional layers to extract features, followed by fully conn
 
 ## Visual Analysis
 
-![AdaLoss CIFAR](https://github.com/user-attachments/assets/377b31eb-1cdb-43a1-8602-1995adbc1750)
-![AdaLoss MNIST](https://github.com/user-attachments/assets/c78513fb-e57e-4c56-b9a8-ff848a1a742b)
-![ArcLoss CIFAR](https://github.com/user-attachments/assets/2c78d51d-32eb-4ce4-92dc-95ba311ce5f2)
-![ArcLoss MNIST](https://github.com/user-attachments/assets/d86848f0-914e-4329-bf50-231e8213e176)
-![Comaprison AdaLoss vs ArcLoss](https://github.com/user-attachments/assets/0bed2190-9385-4241-b99f-957bff8470d4)
+![AdaLoss CIFAR](https://github.com/user-attachments/assets/120fedc4-458e-488f-bd48-dbc5a8973fd7)
+![AdaLoss MNIST](https://github.com/user-attachments/assets/7da03127-714f-4040-be23-0fbd5d1c4b30)
+![ArcLoss CIFAR](https://github.com/user-attachments/assets/a0d1caf7-a90c-43fe-81b7-1986126a0906)
+![ArcLoss MNIST](https://github.com/user-attachments/assets/e3f998b1-e867-4786-82ed-e6c28000e389)
+![Comaprison AdaLoss vs ArcLoss](https://github.com/user-attachments/assets/332712c5-43a4-4578-81e8-8d4c533a4dcd)
+
 
 ## Conclusion
 
